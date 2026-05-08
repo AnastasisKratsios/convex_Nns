@@ -42,6 +42,7 @@ For example, in the one-dimensional experiment, the target function is generated
 
 If this code supports your work, please cite the accompanying manuscript.
 
+```bibtex
 @misc{kratsios2026mlpcomputable,
   title  = {MLP-Computable Convexity- and Lipschitzness-Preserving Reconstruction of Convex Functions from Finite Samples},
   author = {Kratsios, Anastasis},
