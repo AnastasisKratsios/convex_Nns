@@ -53,4 +53,5 @@ If this code supports your work, please cite the accompanying manuscript.
 
 Install the required packages with:
 
+```bash
 pip install torch matplotlib seaborn pandas
